@@ -1,5 +1,6 @@
 {
 	"default":
 	{
+		"lua": { "baseline": "5.1.5" }
 	}
 }
